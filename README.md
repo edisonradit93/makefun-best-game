@@ -5,6 +5,7 @@
 [![reward](https://make.fun/badge/best-game-01/edisonradit93/makefun-best-game/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 Void Survivor: Protocol Zero is an intense, polished neon sci-fi roguelite survival shooter crafted for make.fun's best-game-01 competition.
+Version 1.1 features enhanced particle dynamics, spatial audio balance, and wave telemetry analytics.
 
 ## Game Highlights
 

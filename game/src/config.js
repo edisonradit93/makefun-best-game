@@ -1,4 +1,5 @@
 // Void Survivor - Configuration Constants
+// Version: 1.1.0 - Optimized weapon balance and particle density
 
 export const CANVAS_WIDTH = 1280;
 export const CANVAS_HEIGHT = 720;
