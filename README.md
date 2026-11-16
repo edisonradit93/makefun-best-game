@@ -5,7 +5,6 @@
 [![reward](https://make.fun/badge/best-game-01/edisonradit93/makefun-best-game/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 Void Survivor: Protocol Zero is an intense, polished neon sci-fi roguelite survival shooter crafted for make.fun's best-game-01 competition.
-Version 1.2 features high-density particle dynamics, spatial audio balance, and wave telemetry analytics.
 
 ## Game Highlights
 
@@ -14,13 +13,6 @@ Version 1.2 features high-density particle dynamics, spatial audio balance, and 
 - **Roguelite Level-Up Choices**: Collect glowing energy cores to level up and choose between procedural upgrade cards (Plasma Spread, EMP Blast, Piercing Railgun, Orbital Drones, Speed Thrusters).
 - **Juicy Combat Feel**: Screen shake, particle explosions, floating combat text, neon engine trails, and responsive procedural Web Audio synthesizer sounds.
 - **Comprehensive HUD & Feedback**: Real-time shield/hull integrity meters, XP progression bar, wave survival timer, radar mini-map, active perk indicators, and game over telemetry stats.
-
-## Play Locally
-
-```sh
-node serve.ts
-```
-Then navigate to `http://localhost:8080`.
 
 ---
 
