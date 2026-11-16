@@ -1,5 +1,5 @@
 // Void Survivor: Protocol Zero - make.fun best-game-01 entrypoint
-// Copies game/ and screenshots/ to /output and generates dossier.json via vendored makefun-game library
+// Hands in game/ and screenshots/ to /output and compiles dossier.json v1.2
 
 import { cpSync, existsSync, mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
